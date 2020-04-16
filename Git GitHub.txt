@@ -1,0 +1,4 @@
+git add 文件名字
+git status
+git commit  -m "标签" 名字
+git push -u origin master
